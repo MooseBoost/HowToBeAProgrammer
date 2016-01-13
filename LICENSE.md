@@ -3,7 +3,7 @@
 
 "How To Be A Programmer: Community Version" by Robert L. Read with Community is licensed under Creative Commons Attribution Share-Alike Internal v 4.0.
 
-At present this work will be edited by Braydie Grove and Robert L. Read.
+At present this work will be edited by Braydie Gravy and Robert L. Read.
 
 We will make reasonable attempts to maintain proper attributions of contributions in the section entittle "Contributions". If you make a pull-request with a significant contribution, please add a very brief description of your contribution to that section.
 
